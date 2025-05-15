@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /about/
 ---
 
-Some information about you!
+## About Me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I’m Matthew Alberts, an author, keynote speaker, and technology strategist. My mission is to help organizations and individuals navigate the rapidly changing world of AI, digital transformation, and innovation...
